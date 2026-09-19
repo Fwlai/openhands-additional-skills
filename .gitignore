@@ -1,0 +1,75 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Android / Gradle
+.gradle/
+build/
+*/build/
+*.apk
+*.aab
+*.apks
+*.dex
+*.odex
+*.vdex
+
+# APK reverse-engineering temporary output
+apktool-output/
+jadx-output/
+dex-output/
+smali-output/
+extracted-apk/
+decompiled/
+analysis-output/
+runtime-output/
+tmp/
+temp/
+
+# Runtime / device artifacts
+logcat*.txt
+tombstones/
+screenshots/
+recordings/
+
+# Analysis caches
+.cache/
+.cache-*/
+*.cache
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+
+# Generated reports
+reports/generated/
+artifacts/

@@ -1,0 +1,25 @@
+{
+  "name": "project-engineering",
+  "version": "1.0.0",
+  "description": "Project engineering and APK reverse-engineering workflow for OpenHands. Provides deep codebase analysis, Android runtime analysis, binary and asset investigation, controlled code changes, debugging, testing, validation, and evidence-driven technical research.",
+  "author": {
+    "name": "Fwlai"
+  },
+  "homepage": "https://github.com/Fwlai/openhands-additional-skills",
+  "repository": "https://github.com/Fwlai/openhands-additional-skills",
+  "license": "MIT",
+  "keywords": [
+    "project-engineering",
+    "reverse-engineering",
+    "apk-analysis",
+    "android",
+    "smali",
+    "dex",
+    "native",
+    "binary-analysis",
+    "codebase-analysis",
+    "debugging",
+    "testing",
+    "termux"
+  ]
+}
