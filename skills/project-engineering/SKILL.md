@@ -1,3 +1,23 @@
+---
+name: project-engineering
+description: Deep project engineering and Android/APK reverse engineering. Use when analyzing unfamiliar codebases, modifying large projects, debugging builds, inspecting APKs, reconstructing game systems, reverse engineering map or procedural generation, analyzing sprites and visibility, or implementing evidence-based changes.
+triggers:
+  - project engineering
+  - codebase analysis
+  - Android
+  - APK
+  - reverse engineering
+  - decompilation
+  - map generation
+  - procedural generation
+  - game map
+  - sprite visibility
+  - line of sight
+  - chunk generation
+  - loot generation
+  - world generation
+  - APK analysis
+---
 # Project Engineering & APK Analysis
 
 ## Role
